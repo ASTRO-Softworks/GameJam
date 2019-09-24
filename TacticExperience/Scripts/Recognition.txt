@@ -1,0 +1,54 @@
+﻿using System;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+using UnityEngine.Windows.Speech;
+using System.Linq;
+using System.Collections.Generic;
+using System.Globalization;
+using Microsoft.Speech;
+using Microsoft.Speech.Recognition;
+
+public class Recognition : MonoBehaviour
+{
+    private KeywordRecognizer keywordRecognizer;
+
+    private Dictionary<string, System.Action> keywords = new Dictionary<string, Action>();
+    // Start is called before the first frame update
+    void Start()
+    {
+        foreach (var device in Microphone.devices)
+        {
+            Debug.Log("Name: " + device);
+        }
+        
+        System.Globalization.CultureInfo cultureInfo = new CultureInfo("ru-ru");
+        SpeechRecognitionEngine src = new SpeechRecognitionEngine(cultureInfo);
+        src.SetInputToDefaultAudioDevice();
+        
+        src.SpeechRecognized += new EventHandler<SpeechRecognizedEventArgs>(KeywordRecognizerOnPhraseRecognized);
+        
+        keywords.Add("первый", () => { Debug.Log("первый");});
+        keywords.Add("второй", () => { Debug.Log("второй");});
+        //keywordRecognizer = new KeywordRecognizer(keywords.Keys.ToArray());
+        //keywordRecognizer.OnPhraseRecognized += KeywordRecognizerOnPhraseRecognized;
+        //keywordRecognizer.Start();
+    }
+
+    static void KeywordRecognizerOnPhraseRecognized(object render, SpeechRecognizedEventArgs e)
+    {
+        if (e.Result.Confidence > 0.62)
+            Debug.Log(e.Result.Text);
+        {
+            
+        }
+    //    System.Action keywordAction;
+/*        if (keywords.TryGetValue(args.text, out keywordAction))
+        {
+            keywordAction.Invoke();
+        }
+  */  }
+
+    // Update is called once per frame
+}
