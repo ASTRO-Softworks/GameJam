@@ -1,0 +1,6600 @@
+fileFormatVersion: 2
+guid: 9cef83bf6d87cd94e90c290af3e341ac
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: big-game-top-down-tileset-20511_imgs_20511_0
+    21300002: big-game-top-down-tileset-20511_imgs_20511_1
+    21300004: big-game-top-down-tileset-20511_imgs_20511_2
+    21300006: big-game-top-down-tileset-20511_imgs_20511_3
+    21300008: big-game-top-down-tileset-20511_imgs_20511_4
+    21300010: big-game-top-down-tileset-20511_imgs_20511_5
+    21300012: big-game-top-down-tileset-20511_imgs_20511_6
+    21300014: big-game-top-down-tileset-20511_imgs_20511_7
+    21300016: big-game-top-down-tileset-20511_imgs_20511_8
+    21300018: big-game-top-down-tileset-20511_imgs_20511_9
+    21300020: big-game-top-down-tileset-20511_imgs_20511_10
+    21300022: big-game-top-down-tileset-20511_imgs_20511_11
+    21300024: big-game-top-down-tileset-20511_imgs_20511_12
+    21300026: big-game-top-down-tileset-20511_imgs_20511_13
+    21300028: big-game-top-down-tileset-20511_imgs_20511_14
+    21300030: big-game-top-down-tileset-20511_imgs_20511_15
+    21300032: big-game-top-down-tileset-20511_imgs_20511_16
+    21300034: big-game-top-down-tileset-20511_imgs_20511_17
+    21300036: big-game-top-down-tileset-20511_imgs_20511_18
+    21300038: big-game-top-down-tileset-20511_imgs_20511_19
+    21300040: big-game-top-down-tileset-20511_imgs_20511_20
+    21300042: big-game-top-down-tileset-20511_imgs_20511_21
+    21300044: big-game-top-down-tileset-20511_imgs_20511_22
+    21300046: big-game-top-down-tileset-20511_imgs_20511_23
+    21300048: big-game-top-down-tileset-20511_imgs_20511_24
+    21300050: big-game-top-down-tileset-20511_imgs_20511_25
+    21300052: big-game-top-down-tileset-20511_imgs_20511_26
+    21300054: big-game-top-down-tileset-20511_imgs_20511_27
+    21300056: big-game-top-down-tileset-20511_imgs_20511_28
+    21300058: big-game-top-down-tileset-20511_imgs_20511_29
+    21300060: big-game-top-down-tileset-20511_imgs_20511_30
+    21300062: big-game-top-down-tileset-20511_imgs_20511_31
+    21300064: big-game-top-down-tileset-20511_imgs_20511_32
+    21300066: big-game-top-down-tileset-20511_imgs_20511_33
+    21300068: big-game-top-down-tileset-20511_imgs_20511_34
+    21300070: big-game-top-down-tileset-20511_imgs_20511_35
+    21300072: big-game-top-down-tileset-20511_imgs_20511_36
+    21300074: big-game-top-down-tileset-20511_imgs_20511_37
+    21300076: big-game-top-down-tileset-20511_imgs_20511_38
+    21300078: big-game-top-down-tileset-20511_imgs_20511_39
+    21300080: big-game-top-down-tileset-20511_imgs_20511_40
+    21300082: big-game-top-down-tileset-20511_imgs_20511_41
+    21300084: big-game-top-down-tileset-20511_imgs_20511_42
+    21300086: big-game-top-down-tileset-20511_imgs_20511_43
+    21300088: big-game-top-down-tileset-20511_imgs_20511_44
+    21300090: big-game-top-down-tileset-20511_imgs_20511_45
+    21300092: big-game-top-down-tileset-20511_imgs_20511_46
+    21300094: big-game-top-down-tileset-20511_imgs_20511_47
+    21300096: big-game-top-down-tileset-20511_imgs_20511_48
+    21300098: big-game-top-down-tileset-20511_imgs_20511_49
+    21300100: big-game-top-down-tileset-20511_imgs_20511_50
+    21300102: big-game-top-down-tileset-20511_imgs_20511_51
+    21300104: big-game-top-down-tileset-20511_imgs_20511_52
+    21300106: big-game-top-down-tileset-20511_imgs_20511_53
+    21300108: big-game-top-down-tileset-20511_imgs_20511_54
+    21300110: big-game-top-down-tileset-20511_imgs_20511_55
+    21300112: big-game-top-down-tileset-20511_imgs_20511_56
+    21300114: big-game-top-down-tileset-20511_imgs_20511_57
+    21300116: big-game-top-down-tileset-20511_imgs_20511_58
+    21300118: big-game-top-down-tileset-20511_imgs_20511_59
+    21300120: big-game-top-down-tileset-20511_imgs_20511_60
+    21300122: big-game-top-down-tileset-20511_imgs_20511_61
+    21300124: big-game-top-down-tileset-20511_imgs_20511_62
+    21300126: big-game-top-down-tileset-20511_imgs_20511_63
+    21300128: big-game-top-down-tileset-20511_imgs_20511_64
+    21300130: big-game-top-down-tileset-20511_imgs_20511_65
+    21300132: big-game-top-down-tileset-20511_imgs_20511_66
+    21300134: big-game-top-down-tileset-20511_imgs_20511_67
+    21300136: big-game-top-down-tileset-20511_imgs_20511_68
+    21300138: big-game-top-down-tileset-20511_imgs_20511_69
+    21300140: big-game-top-down-tileset-20511_imgs_20511_70
+    21300142: big-game-top-down-tileset-20511_imgs_20511_71
+    21300144: big-game-top-down-tileset-20511_imgs_20511_72
+    21300146: big-game-top-down-tileset-20511_imgs_20511_73
+    21300148: big-game-top-down-tileset-20511_imgs_20511_74
+    21300150: big-game-top-down-tileset-20511_imgs_20511_75
+    21300152: big-game-top-down-tileset-20511_imgs_20511_76
+    21300154: big-game-top-down-tileset-20511_imgs_20511_77
+    21300156: big-game-top-down-tileset-20511_imgs_20511_78
+    21300158: big-game-top-down-tileset-20511_imgs_20511_79
+    21300160: big-game-top-down-tileset-20511_imgs_20511_80
+    21300162: big-game-top-down-tileset-20511_imgs_20511_81
+    21300164: big-game-top-down-tileset-20511_imgs_20511_82
+    21300166: big-game-top-down-tileset-20511_imgs_20511_83
+    21300168: big-game-top-down-tileset-20511_imgs_20511_84
+    21300170: big-game-top-down-tileset-20511_imgs_20511_85
+    21300172: big-game-top-down-tileset-20511_imgs_20511_86
+    21300174: big-game-top-down-tileset-20511_imgs_20511_87
+    21300176: big-game-top-down-tileset-20511_imgs_20511_88
+    21300178: big-game-top-down-tileset-20511_imgs_20511_89
+    21300180: big-game-top-down-tileset-20511_imgs_20511_90
+    21300182: big-game-top-down-tileset-20511_imgs_20511_91
+    21300184: big-game-top-down-tileset-20511_imgs_20511_92
+    21300186: big-game-top-down-tileset-20511_imgs_20511_93
+    21300188: big-game-top-down-tileset-20511_imgs_20511_94
+    21300190: big-game-top-down-tileset-20511_imgs_20511_95
+    21300192: big-game-top-down-tileset-20511_imgs_20511_96
+    21300194: big-game-top-down-tileset-20511_imgs_20511_97
+    21300196: big-game-top-down-tileset-20511_imgs_20511_98
+    21300198: big-game-top-down-tileset-20511_imgs_20511_99
+    21300200: big-game-top-down-tileset-20511_imgs_20511_100
+    21300202: big-game-top-down-tileset-20511_imgs_20511_101
+    21300204: big-game-top-down-tileset-20511_imgs_20511_102
+    21300206: big-game-top-down-tileset-20511_imgs_20511_103
+    21300208: big-game-top-down-tileset-20511_imgs_20511_104
+    21300210: big-game-top-down-tileset-20511_imgs_20511_105
+    21300212: big-game-top-down-tileset-20511_imgs_20511_106
+    21300214: big-game-top-down-tileset-20511_imgs_20511_107
+    21300216: big-game-top-down-tileset-20511_imgs_20511_108
+    21300218: big-game-top-down-tileset-20511_imgs_20511_109
+    21300220: big-game-top-down-tileset-20511_imgs_20511_110
+    21300222: big-game-top-down-tileset-20511_imgs_20511_111
+    21300224: big-game-top-down-tileset-20511_imgs_20511_112
+    21300226: big-game-top-down-tileset-20511_imgs_20511_113
+    21300228: big-game-top-down-tileset-20511_imgs_20511_114
+    21300230: big-game-top-down-tileset-20511_imgs_20511_115
+    21300232: big-game-top-down-tileset-20511_imgs_20511_116
+    21300234: big-game-top-down-tileset-20511_imgs_20511_117
+    21300236: big-game-top-down-tileset-20511_imgs_20511_118
+    21300238: big-game-top-down-tileset-20511_imgs_20511_119
+    21300240: big-game-top-down-tileset-20511_imgs_20511_120
+    21300242: big-game-top-down-tileset-20511_imgs_20511_121
+    21300244: big-game-top-down-tileset-20511_imgs_20511_122
+    21300246: big-game-top-down-tileset-20511_imgs_20511_123
+    21300248: big-game-top-down-tileset-20511_imgs_20511_124
+    21300250: big-game-top-down-tileset-20511_imgs_20511_125
+    21300252: big-game-top-down-tileset-20511_imgs_20511_126
+    21300254: big-game-top-down-tileset-20511_imgs_20511_127
+    21300256: big-game-top-down-tileset-20511_imgs_20511_128
+    21300258: big-game-top-down-tileset-20511_imgs_20511_129
+    21300260: big-game-top-down-tileset-20511_imgs_20511_130
+    21300262: big-game-top-down-tileset-20511_imgs_20511_131
+    21300264: big-game-top-down-tileset-20511_imgs_20511_132
+    21300266: big-game-top-down-tileset-20511_imgs_20511_133
+    21300268: big-game-top-down-tileset-20511_imgs_20511_134
+    21300270: big-game-top-down-tileset-20511_imgs_20511_135
+    21300272: big-game-top-down-tileset-20511_imgs_20511_136
+    21300274: big-game-top-down-tileset-20511_imgs_20511_137
+    21300276: big-game-top-down-tileset-20511_imgs_20511_138
+    21300278: big-game-top-down-tileset-20511_imgs_20511_139
+    21300280: big-game-top-down-tileset-20511_imgs_20511_140
+    21300282: big-game-top-down-tileset-20511_imgs_20511_141
+    21300284: big-game-top-down-tileset-20511_imgs_20511_142
+    21300286: big-game-top-down-tileset-20511_imgs_20511_143
+    21300288: big-game-top-down-tileset-20511_imgs_20511_144
+    21300290: big-game-top-down-tileset-20511_imgs_20511_145
+    21300292: big-game-top-down-tileset-20511_imgs_20511_146
+    21300294: big-game-top-down-tileset-20511_imgs_20511_147
+    21300296: big-game-top-down-tileset-20511_imgs_20511_148
+    21300298: big-game-top-down-tileset-20511_imgs_20511_149
+    21300300: big-game-top-down-tileset-20511_imgs_20511_150
+    21300302: big-game-top-down-tileset-20511_imgs_20511_151
+    21300304: big-game-top-down-tileset-20511_imgs_20511_152
+    21300306: big-game-top-down-tileset-20511_imgs_20511_153
+    21300308: big-game-top-down-tileset-20511_imgs_20511_154
+    21300310: big-game-top-down-tileset-20511_imgs_20511_155
+    21300312: big-game-top-down-tileset-20511_imgs_20511_156
+    21300314: big-game-top-down-tileset-20511_imgs_20511_157
+    21300316: big-game-top-down-tileset-20511_imgs_20511_158
+    21300318: big-game-top-down-tileset-20511_imgs_20511_159
+    21300320: big-game-top-down-tileset-20511_imgs_20511_160
+    21300322: big-game-top-down-tileset-20511_imgs_20511_161
+    21300324: big-game-top-down-tileset-20511_imgs_20511_162
+    21300326: big-game-top-down-tileset-20511_imgs_20511_163
+    21300328: big-game-top-down-tileset-20511_imgs_20511_164
+    21300330: big-game-top-down-tileset-20511_imgs_20511_165
+    21300332: big-game-top-down-tileset-20511_imgs_20511_166
+    21300334: big-game-top-down-tileset-20511_imgs_20511_167
+    21300336: big-game-top-down-tileset-20511_imgs_20511_168
+    21300338: big-game-top-down-tileset-20511_imgs_20511_169
+    21300340: big-game-top-down-tileset-20511_imgs_20511_170
+    21300342: big-game-top-down-tileset-20511_imgs_20511_171
+    21300344: big-game-top-down-tileset-20511_imgs_20511_172
+    21300346: big-game-top-down-tileset-20511_imgs_20511_173
+    21300348: big-game-top-down-tileset-20511_imgs_20511_174
+    21300350: big-game-top-down-tileset-20511_imgs_20511_175
+    21300352: big-game-top-down-tileset-20511_imgs_20511_176
+    21300354: big-game-top-down-tileset-20511_imgs_20511_177
+    21300356: big-game-top-down-tileset-20511_imgs_20511_178
+    21300358: big-game-top-down-tileset-20511_imgs_20511_179
+    21300360: big-game-top-down-tileset-20511_imgs_20511_180
+    21300362: big-game-top-down-tileset-20511_imgs_20511_181
+    21300364: big-game-top-down-tileset-20511_imgs_20511_182
+    21300366: big-game-top-down-tileset-20511_imgs_20511_183
+    21300368: big-game-top-down-tileset-20511_imgs_20511_184
+    21300370: big-game-top-down-tileset-20511_imgs_20511_185
+    21300372: big-game-top-down-tileset-20511_imgs_20511_186
+    21300374: big-game-top-down-tileset-20511_imgs_20511_187
+    21300376: big-game-top-down-tileset-20511_imgs_20511_188
+    21300378: big-game-top-down-tileset-20511_imgs_20511_189
+    21300380: big-game-top-down-tileset-20511_imgs_20511_190
+    21300382: big-game-top-down-tileset-20511_imgs_20511_191
+    21300384: big-game-top-down-tileset-20511_imgs_20511_192
+    21300386: big-game-top-down-tileset-20511_imgs_20511_193
+    21300388: big-game-top-down-tileset-20511_imgs_20511_194
+    21300390: big-game-top-down-tileset-20511_imgs_20511_195
+    21300392: big-game-top-down-tileset-20511_imgs_20511_196
+    21300394: big-game-top-down-tileset-20511_imgs_20511_197
+    21300396: big-game-top-down-tileset-20511_imgs_20511_198
+    21300398: big-game-top-down-tileset-20511_imgs_20511_199
+    21300400: big-game-top-down-tileset-20511_imgs_20511_200
+    21300402: big-game-top-down-tileset-20511_imgs_20511_201
+    21300404: big-game-top-down-tileset-20511_imgs_20511_202
+    21300406: big-game-top-down-tileset-20511_imgs_20511_203
+    21300408: big-game-top-down-tileset-20511_imgs_20511_204
+    21300410: big-game-top-down-tileset-20511_imgs_20511_205
+    21300412: big-game-top-down-tileset-20511_imgs_20511_206
+    21300414: big-game-top-down-tileset-20511_imgs_20511_207
+    21300416: big-game-top-down-tileset-20511_imgs_20511_208
+    21300418: big-game-top-down-tileset-20511_imgs_20511_209
+    21300420: big-game-top-down-tileset-20511_imgs_20511_210
+    21300422: big-game-top-down-tileset-20511_imgs_20511_211
+    21300424: big-game-top-down-tileset-20511_imgs_20511_212
+    21300426: big-game-top-down-tileset-20511_imgs_20511_213
+    21300428: big-game-top-down-tileset-20511_imgs_20511_214
+    21300430: big-game-top-down-tileset-20511_imgs_20511_215
+    21300432: big-game-top-down-tileset-20511_imgs_20511_216
+    21300434: big-game-top-down-tileset-20511_imgs_20511_217
+    21300436: big-game-top-down-tileset-20511_imgs_20511_218
+    21300438: big-game-top-down-tileset-20511_imgs_20511_219
+    21300440: big-game-top-down-tileset-20511_imgs_20511_220
+    21300442: big-game-top-down-tileset-20511_imgs_20511_221
+    21300444: big-game-top-down-tileset-20511_imgs_20511_222
+    21300446: big-game-top-down-tileset-20511_imgs_20511_223
+    21300448: big-game-top-down-tileset-20511_imgs_20511_224
+    21300450: big-game-top-down-tileset-20511_imgs_20511_225
+    21300452: big-game-top-down-tileset-20511_imgs_20511_226
+    21300454: big-game-top-down-tileset-20511_imgs_20511_227
+    21300456: big-game-top-down-tileset-20511_imgs_20511_228
+    21300458: big-game-top-down-tileset-20511_imgs_20511_229
+    21300460: big-game-top-down-tileset-20511_imgs_20511_230
+    21300462: big-game-top-down-tileset-20511_imgs_20511_231
+    21300464: big-game-top-down-tileset-20511_imgs_20511_232
+    21300466: big-game-top-down-tileset-20511_imgs_20511_233
+    21300468: big-game-top-down-tileset-20511_imgs_20511_234
+    21300470: big-game-top-down-tileset-20511_imgs_20511_235
+    21300472: big-game-top-down-tileset-20511_imgs_20511_236
+    21300474: big-game-top-down-tileset-20511_imgs_20511_237
+    21300476: big-game-top-down-tileset-20511_imgs_20511_238
+    21300478: big-game-top-down-tileset-20511_imgs_20511_239
+    21300480: big-game-top-down-tileset-20511_imgs_20511_240
+    21300482: big-game-top-down-tileset-20511_imgs_20511_241
+    21300484: big-game-top-down-tileset-20511_imgs_20511_242
+    21300486: big-game-top-down-tileset-20511_imgs_20511_243
+    21300488: big-game-top-down-tileset-20511_imgs_20511_244
+    21300490: big-game-top-down-tileset-20511_imgs_20511_245
+    21300492: big-game-top-down-tileset-20511_imgs_20511_246
+    21300494: big-game-top-down-tileset-20511_imgs_20511_247
+    21300496: big-game-top-down-tileset-20511_imgs_20511_248
+    21300498: big-game-top-down-tileset-20511_imgs_20511_249
+    21300500: big-game-top-down-tileset-20511_imgs_20511_250
+    21300502: big-game-top-down-tileset-20511_imgs_20511_251
+    21300504: big-game-top-down-tileset-20511_imgs_20511_252
+    21300506: big-game-top-down-tileset-20511_imgs_20511_253
+    21300508: big-game-top-down-tileset-20511_imgs_20511_254
+    21300510: big-game-top-down-tileset-20511_imgs_20511_255
+    21300512: big-game-top-down-tileset-20511_imgs_20511_256
+    21300514: big-game-top-down-tileset-20511_imgs_20511_257
+    21300516: big-game-top-down-tileset-20511_imgs_20511_258
+    21300518: big-game-top-down-tileset-20511_imgs_20511_259
+    21300520: big-game-top-down-tileset-20511_imgs_20511_260
+    21300522: big-game-top-down-tileset-20511_imgs_20511_261
+    21300524: big-game-top-down-tileset-20511_imgs_20511_262
+    21300526: big-game-top-down-tileset-20511_imgs_20511_263
+    21300528: big-game-top-down-tileset-20511_imgs_20511_264
+    21300530: big-game-top-down-tileset-20511_imgs_20511_265
+    21300532: big-game-top-down-tileset-20511_imgs_20511_266
+    21300534: big-game-top-down-tileset-20511_imgs_20511_267
+    21300536: big-game-top-down-tileset-20511_imgs_20511_268
+    21300538: big-game-top-down-tileset-20511_imgs_20511_269
+    21300540: big-game-top-down-tileset-20511_imgs_20511_270
+    21300542: big-game-top-down-tileset-20511_imgs_20511_271
+    21300544: big-game-top-down-tileset-20511_imgs_20511_272
+    21300546: big-game-top-down-tileset-20511_imgs_20511_273
+    21300548: big-game-top-down-tileset-20511_imgs_20511_274
+    21300550: big-game-top-down-tileset-20511_imgs_20511_275
+    21300552: big-game-top-down-tileset-20511_imgs_20511_276
+    21300554: big-game-top-down-tileset-20511_imgs_20511_277
+    21300556: big-game-top-down-tileset-20511_imgs_20511_278
+    21300558: big-game-top-down-tileset-20511_imgs_20511_279
+    21300560: big-game-top-down-tileset-20511_imgs_20511_280
+    21300562: big-game-top-down-tileset-20511_imgs_20511_281
+    21300564: big-game-top-down-tileset-20511_imgs_20511_282
+    21300566: big-game-top-down-tileset-20511_imgs_20511_283
+    21300568: big-game-top-down-tileset-20511_imgs_20511_284
+    21300570: big-game-top-down-tileset-20511_imgs_20511_285
+    21300572: big-game-top-down-tileset-20511_imgs_20511_286
+    21300574: big-game-top-down-tileset-20511_imgs_20511_287
+    21300576: big-game-top-down-tileset-20511_imgs_20511_288
+    21300578: big-game-top-down-tileset-20511_imgs_20511_289
+    21300580: big-game-top-down-tileset-20511_imgs_20511_290
+    21300582: big-game-top-down-tileset-20511_imgs_20511_291
+    21300584: big-game-top-down-tileset-20511_imgs_20511_292
+    21300586: big-game-top-down-tileset-20511_imgs_20511_293
+    21300588: big-game-top-down-tileset-20511_imgs_20511_294
+    21300590: big-game-top-down-tileset-20511_imgs_20511_295
+    21300592: big-game-top-down-tileset-20511_imgs_20511_296
+    21300594: big-game-top-down-tileset-20511_imgs_20511_297
+    21300596: big-game-top-down-tileset-20511_imgs_20511_298
+    21300598: big-game-top-down-tileset-20511_imgs_20511_299
+    21300600: big-game-top-down-tileset-20511_imgs_20511_300
+    21300602: big-game-top-down-tileset-20511_imgs_20511_301
+    21300604: big-game-top-down-tileset-20511_imgs_20511_302
+    21300606: big-game-top-down-tileset-20511_imgs_20511_303
+    21300608: big-game-top-down-tileset-20511_imgs_20511_304
+    21300610: big-game-top-down-tileset-20511_imgs_20511_305
+    21300612: big-game-top-down-tileset-20511_imgs_20511_306
+    21300614: big-game-top-down-tileset-20511_imgs_20511_307
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 779
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c0f589ba3862542b04e9bbc9719159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 779
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f854ab789cf4b48874451007bc7b02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 779
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949086f06caa48c47b8751fc1a355b14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 779
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6be93fea7dea8e4caee4096b92f04b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 779
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a74da20c80427648b13925da89674ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 779
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc27ced5c93c12d4e8d946b40c4b4fe1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 779
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c027ac22f5bae42a7c9d2b0ee134be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_7
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 779
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c51bf1b0a1ab724e891a0fd58c309c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 779
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3cbb74b3ecf7e4c9e6105cb3fb1813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_9
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 779
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698810f6123ee5b40b4e8ffae741415b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_10
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 779
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50076a5a0b6b5b540a01fbca340467d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_11
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 779
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5eb489bd70dee46a5c4df00123d904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_12
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 779
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6a9b68d56d38841b8b3d6b289983e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_13
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 779
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d78ee03bd72e1e479fc8a69ed396b68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_14
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 779
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40f486f7de37ff4d8c5d2076a613cf0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_15
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 779
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c3adc82eebca14bafdfadcd1962ee8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_16
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 779
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04515d0c74b033c4c8ffe8175bf8a49d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_17
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 779
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30d68a76a4296d40b36612d4dad6810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_18
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 779
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02e1fee0c65f2f4f897c7d7c496169d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_19
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 779
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6493da1a65db854081722486ca52c82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_20
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 779
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63821812e8d0e5a439067c06aed088f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_21
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 779
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9716639df6f9ba84f9f3044c453ab61f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 723
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c880f6ac1d5615044b96a51477cb9c79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 723
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf57ca6fddaa184981361df941660bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 723
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9288b0e6f82f05c46a3e91de0b8b9dd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_25
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 723
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cd60dfdedb6fa449c9c568126ac951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 723
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8333a7bda6a932140bf5916b1f9170fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_27
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 723
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b6e042b2f09bc438baeb36564f51a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_28
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 723
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc2230c16dc55e4eb885e0e2f44735e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_29
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 723
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab38ef8cd2353e4e9f5444f99cafa63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 723
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ee57ab4c4e142428ae53c2b53ced77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_31
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 723
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f993a342f242194389bd938d3b74ea7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_32
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 723
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f475ab15b8e32b4d89e630b7d27d00c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_33
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 723
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37151558f8dadfb4ba0f523a08f28520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_34
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 723
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6d4654b6a9c474e9c57bfecd84600e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_35
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 723
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd01e3e81735167489ac3fb6a969edd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_36
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 723
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ac413f55542e7499049168f04e9fa4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_37
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 723
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585c20a1fe117a9419969de3375c8d03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_38
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 723
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89954e46a7721c34791dc807cba08a4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_39
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 723
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4358d19cdb7558749aa709bafea01366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_40
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 723
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b0e2a7b7a47c548a0e6a2da87b4806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_41
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 723
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb68a2c3b0d30644d80625d7352b0cb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_42
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 723
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fb2527ca19ef141a261632f02032dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_43
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 723
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f000f18b616da9419610eae7f8daec3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 667
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd05c1d6db52284cb4bc8e2ebe1227d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_45
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 667
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77965355c92fc14cb741b3bcd241d87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_46
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 667
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e36ee5b48eafc4cbf49388310a05ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_47
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 667
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6a60e61c409aa45aac5f4086862fac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_48
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 667
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd987388bbc3c41459bec952089911ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_49
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 667
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a5e46a4a2e21e47b09d72838c21737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_50
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 667
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46865c8893a126f4caa46fbb593ead1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_51
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 667
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03eecb904795034a8a2bff23f75b73e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_52
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 667
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2056cddae0d352b45b9c4a2cf1793eaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_53
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 667
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6b4773a3d0b994780789319043f303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_54
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 667
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865259fec0ab3a94e8c3e7b4fba2c0e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_55
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 667
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3676b2d9386ac0f448efbf0355df1a5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_56
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 667
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756c952a7ef65804caeb7c8a2ba9a793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_57
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 667
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a059351dd67f592478ce67fb55f80db2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_58
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 667
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db5e5d0b8fca5149b3d9d32dbb5f7a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_59
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 667
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e99dc9a7ea9f847a5768692d273de6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_60
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 667
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2576819d8efeb4cbbe3144d978313b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_61
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 667
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1180345024c6e4999ad6e887ef34fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_62
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 667
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977d4a737489d79448615ced5d4919a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_63
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 667
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc06d1416fbe634ebc7d3ce9c3c577a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_64
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 667
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61dac5c2f220ab84587cb0537d3fb111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_65
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 667
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7036fe09e35405c47aa5930e2e38a727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 611
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66077d7a1862cc4c81ab494505201ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_67
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 611
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d704d73a95a300e489724f951243284a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_68
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 611
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62d3beab91341e43b00eeea2291f8a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_69
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 611
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fe8f4d79279c4468c44f32f002fbc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_70
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 611
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a79e66c15864b45af9089f912885c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_71
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 611
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33c03b3e7ec5e74fbdc40e248de3acf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_72
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 611
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ac9e24d2e3b8243b5f3ca8c1d64a1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_73
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 611
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f98bf2427fd88418e2586231e0f171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_74
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 611
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f082593e26dab4e8b5b26e0cb065d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_75
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 611
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9657b543afca6468d5d534242ac140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_76
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 611
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6a924a57963f44a925a231c9fc10f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_77
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 611
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d33a2b17475e724e83c8b5ba4504767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_78
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 611
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53aec9e6c2df17a49aa7ccbe0f99a01c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_79
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 611
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447301350f890da4ca41ebd7d05ffa0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_80
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 611
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fb8eb0820361a489f66da2fbbb9bbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_81
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 611
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c54f3edc318fa468bcbfe81d197f17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_82
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 611
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea366f9e457708941938bedb25f8f7bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_83
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 611
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab700217ae198d4f99651ae5cfcfa20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_84
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 611
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f2630e34695d44483ffe0cff55fc9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_85
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 611
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606b85a6aac689445b653d2c4a3af184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_86
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 611
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c385f9db43c6cd45932c9663c8fef7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_87
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 611
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554fbb324a3fc614dbbb19bc4db94f37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 555
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83812e001e248b4d9877c6cbdcb0e24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_89
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 555
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a019cbf31d46064e9f3e16793a92b59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_90
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 555
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8872126142195ac42a0dabfe933a50e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_91
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 555
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7611abfd285dfbf4f914462bd7c7fed9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_92
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 555
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b9c41149be80345a7ce9e460874df8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_93
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 555
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7673e71e9d593419130b0d3d192c66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_94
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 555
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4067f1f29f18848bf2ef30072825eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_95
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 555
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c1d36566c760a4cab245d7cb6a8726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_96
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 555
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e64fb5dbbf74fc4185abe2ecf3b5a17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_97
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 555
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098af5ce17d213a43a887825f71f546a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_98
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 555
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ec336df002ec2468904854f46b5496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_99
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 555
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af04e1b7ec417be448581b3cb3baa961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_100
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 555
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8a0b6235f884341b44a4c5799ee9d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_101
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 555
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac0c62eb93c92e4f9256ded48161abd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_102
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 555
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34fd95a7da8c7e4bb85836655d5a740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_103
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 555
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152ecf44973b4694dbf1b65c820337da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_104
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 555
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7459ef2eca8de47a11b7bfc4585f06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_105
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 555
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92205800cfdd2046a6074fb9f051abe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_106
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 555
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f06777679205e49860e295141a32ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_107
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 555
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c5a170554c93348ac2337ccfea8b83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_108
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 555
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524f74ec278dbff43beb536cc0d5120e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_109
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 555
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d56cd7503730de4496354946f2bb8b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 499
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9fe1de52c8a414ba6ac8d81547546f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_111
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 499
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d03b11409afb545a7b7cf4f7df153e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_112
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 499
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ee9b7b5face8b46bf3043423e8c096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_113
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 499
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48a0e36a9e9e4c4286cf20b330f1f00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_114
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 499
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fc9365a0f276b4b8a23e0d317245fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_115
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 499
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1d8e5616ca7de44a7eb918efcf367c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_116
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 499
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96560b80a6e0274f961368064b86f49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_117
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 499
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ac65e559bcf9044915594b2422f3d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_118
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 499
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9521e75037b11d940bafd857086b150c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_119
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 499
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f649da068dc22264cb8cb4d4793c98fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_120
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 499
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7934b383306d5841b8db1dbe976d257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_121
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 499
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db8b8128e7c5b74f8dd48906b86e717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_122
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 499
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb921454c73d0dd4ebef09efb61b7bd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_123
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 499
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41257f568ec52ed49abf565d6f51fb02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_124
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 499
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35414ec2e0c768343b5430f539600142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_125
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 499
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b55fbd4a0c248445ba334f7f6f20ee5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_126
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 499
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5075e57fb9dc0a24b95842cba733c371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_127
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 499
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d17b35dc301c24c8b06c6cd9e0c2f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_128
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 499
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1280747559f7ec45a66d83fea52a5fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_129
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 499
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2d7dd3520ce1043a3233ebb878001e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_130
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 499
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f756c6de052e104382b5d8c71ed9cdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_131
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 499
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d709d9ed7c9ec4aa911f1ef4f246fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 443
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4829c3400bf3f42a813afad4422f62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_133
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 443
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3ffa1e00eff7543aea2baf29658ea0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_134
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 443
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d98cebb049e6bf41b1ee2dd294d4f30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_135
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 443
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40a73d57bfdd6c4b8aabfb0f80f8acd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_136
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 443
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48db99fdc6fb8674abe384c5484fbe2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_137
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 443
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f776836a6d4ce7446af9b3f1ffa5de50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_138
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 443
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff7e92526b7e7a4eae2f5ea03b2616c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_139
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 443
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3370aff16c3f354591d0935f297859c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_140
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 443
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a6bde8a39af2e48b8a2c258d1a7826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_141
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 443
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6835eaf1c4d3c934ca73a7f871f6f589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_142
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 443
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1402c94134c41ec438aac0076a257db6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_143
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 443
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42286146bb0eb764ebdc78d866d25bca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_144
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 443
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9f6ad2174207e4187f63ac8814ec83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_145
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 443
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98442d94c1f6be54e87d49549d7df48f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_146
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 443
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e574955eaa4fb424fa366b0cf2c5cc05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_147
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 443
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d21955a4d1e5ce4c82dc304ea55f4aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_148
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 443
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abec82fe12e651741bd4b7c0beac68fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_149
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 443
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1be1bda6a3d0e349bf35095b03c59a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_150
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 443
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825f19ba42a97c141bc245895db9e778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_151
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 443
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b825f7a0f3d5641b2a91dc2eb9008f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_152
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 443
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a6df11caa77794396cbc520ba76445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_153
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 443
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b70476187b07144afcae0a3656361f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 387
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7825babb2d92a5546a334a8e57da6b58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_155
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 387
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a493b9eee055b6a47a8bbac5724df29d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_156
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 387
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883d43de95b939248abe949af79c3a5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_157
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 387
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37794786d5086f342904fcd74dbaef0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_158
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 387
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6bec96180d38b449a62b655ccfcd85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_159
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 387
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05252ef62dbd204c9edade6057390b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_160
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 387
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c289c12bf305f48a7a5ddffc8fad89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_161
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 387
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f1d60ccfe895b4ba550acec2a6fcc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_162
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 387
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355798f85b356c94f83575fb697c990e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_163
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 387
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8f04db78d53044aaeeb46e41ada361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_164
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 387
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b07a63eb474a44b8e92f14d65987b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_165
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 387
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b11058968a6c1a47be59c3340a2de14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_166
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 387
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90eb74709cf79e48b2c1769c8b92753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_167
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 387
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f657e1eb8ffba584b8f598694e043701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_168
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 387
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c634a9497c12a4047a58526a8942c5b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_169
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 387
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1783050f8c102d44ca6967c948c258bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_170
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 387
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899c20f771353f84da14aead52dea185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_171
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 387
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ede7d5b4b3dbcf45aa01098650af466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_172
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 387
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc244c93fee10f4ab5e41d82626c125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_173
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 387
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d7544ced0b8d8438a6554c34556b65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_174
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 387
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557652f090d869a41906291eeb481e2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_175
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 387
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a2e55a01944ba49b1ca7256c2ae9dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 331
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0ec2b1f7f80c743a4a25c27a722320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_177
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 331
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e4dd64bc541ae42b43a92267e69c4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_178
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 331
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd499502c82ec043aa848c523c78762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_179
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 331
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87dbe58f2aae8f54fa86ec2f62a5cd0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_180
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 331
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cfb15f1f063a9459d56dd7c5e873c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_181
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 331
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dcbf9abc4dc1443a018d4a52d3b6ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_182
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 331
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724c7bbf2354472458fdc487cf9235c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_183
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 331
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3a131de002f464b9d3dd1fcfc038af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_184
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 331
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc7a134b93c11d4c874023b60db44e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_185
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 331
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b0aff0193792a4bba766da9a68f895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_186
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 331
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee27920be97b0e64bb5b7c6cf21efaa4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_187
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 331
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9c8ee2b88047841be606683953d2bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_188
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 331
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c87b4d30308f54ea979f38b9deded8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_189
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 331
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ec4549982b325459b43228e03438de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_190
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 331
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7096e5706ffd04f92d64c5f0de9b3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_191
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 331
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a95fb2720466864e9a6f3654a5b84eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_192
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 331
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3156468cbb8a3554ca82fcc8e3657e80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_193
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 331
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d36c9d872842443b1b256da73711e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_194
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 331
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af89c34506006f47810aa9ac47ff4ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_195
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 331
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd6e2e94850ea148a9d9ed750a703bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_196
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 331
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4660648dcea2043af8533e37be4ea8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_197
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 331
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2c5a1da6638af44b9254dc533a2a52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 275
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2a28dbbcd438841b1bbc185050a3af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_199
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 275
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e718ad7e9a1434489b6bcca17346112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_200
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 275
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe1e5c0e3cffd84b8631c05c6a22f4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_201
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 275
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653b1e9bd31158745baba1bb11fb7950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_202
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 275
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed6ad0644237544caa660031c2537ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_203
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 275
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3480dacb4f00f469fc4776eeb427ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_204
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 275
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f706074482c12b3418fdad24c6f77616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_205
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 275
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f921338d7c0b484ea1b207d2f1f0390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_206
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 275
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b2d7e16aefd3d428ba4542c9841c40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_207
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 275
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a54694e39e46d479565037c27c8aec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_208
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 275
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c736c8c1240699428b28156d91d7359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_209
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 275
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11372288902fbc4d86cfc4cdd295476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_210
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 275
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8e7b16655cc2d479c8cfd90908823e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_211
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 275
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe0225ab47dc5942b732bbe699c96dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_212
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 275
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0014a8ea861ee84d8f399ca908e5c01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_213
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 275
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b07e18e63008894f88a1a6c7dad009d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_214
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 275
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad6429ced22b1b4d8bb6f0e43c2ed84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_215
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 275
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3927be4b8c5c27245bc72df78dcaec13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_216
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 275
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acac3b4cd8ad56348aec9d5e842f4faa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_217
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 275
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503c4c79f43fd0047b99dceb534b2744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_218
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 275
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b8d7a5a70149843abc3b62270f9ad2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_219
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 275
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f3fc15b8c03e643bbe12e9b123d7e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a267c55975b3534c96794f420a28a1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_221
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 219
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0caeba3d00f32cb45a3247e6d79b9547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_222
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 219
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb668beae054244fb28bb6286d2ddbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_223
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 219
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c61523ed2b11d74393abc1cae091f4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_224
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 219
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d080d91dee706a64da488b5843f4e115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_225
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 219
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad66f1ef11f05a488c4402d0f45b21d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_226
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 219
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b05e2ce0f795d4b9f69729c383420d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_227
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 219
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d5fa9309184d247ac3c0856022a05e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_228
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 219
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8869f583a13c9c4792e62433c9d7629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_229
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 219
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239345f6a44f00041a0a12145c4c7cc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_230
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 219
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be251ff2a63a0a478f1c53366a69c66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_231
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 219
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41e497f7a0b9e74195a723685e0798f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_232
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 219
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f570940132a405a40bfd64dd70357108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_233
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 219
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378dbac85e0b5234a880877b6e2e027d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_234
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 219
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f64d79162f031d4fab624dcb9c7c660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_235
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 219
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce3800c675d27241890770148644348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_236
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 219
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f865196bbcabf4c8754a3fa5d737fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_237
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 219
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a94c4ba51fb67e41bc9fea0aeecffc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_238
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 219
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a3292b51585534ca2eec509b972f3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_239
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 219
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097acc35d31fb5e40a9663ed863ccf04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_240
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 219
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d6068516f81c942b6ed4eed74f831e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_241
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 219
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce0e412124bfaf4280deb9f97d0c810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_242
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2994b9a28dfa026439ee3486cdd9424b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_243
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 163
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d21864650ff504f880a875d746486b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_244
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 163
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b25bbf50244fa4ab3b4af0d27be87f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_245
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 163
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ad65950dbef1e4eb0394710f57d2d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_246
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 163
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf71630c3edc9d944a5651195702020d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_247
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 163
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0a52ecb27c5104293d956e7b681530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_248
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 163
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc08d65049318e54fa8f0ebed9f845c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_249
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 163
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02ff6f6eef343b49b0cd0001fb1d187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_250
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 163
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6440eb94e69954a819fa1af270f48a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_251
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 163
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212dd226cbd19fd4c82f081074a3d6a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_252
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 163
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54afab5190da67142bb8890e789baee6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_253
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 163
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9f2c9c769c29c45aa2a7909116e63e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_254
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 163
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2aaa1314da4ad44ac8c71a19d2d33e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_255
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 163
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06971ba8ba7cf1244b6f1ac91a1c2730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_256
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 163
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b9bb8428c2f5f49ae0c8a38d8cf949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_257
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 163
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62164be672a0d449986856f36f8d45f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_258
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 163
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66eb2f26f388e1548ad2597b21a53643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_259
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 163
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1751da6a321e3e4aa987d3647d49931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_260
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 163
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430b7d3a1eeaeea468c95624b6ceefb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_261
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 163
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3493c94c3f6a24aab5f630a43663c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_262
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 163
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3777a904fb4f0d1459edfd5e323fd9fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_263
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 163
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbdc27d505123048ba76932abe800e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_264
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1dd35a9f4783e49b53da6f15938d13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_265
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 107
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c44485e590160419ca1da085be5950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_266
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 107
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626805dd059e369489c039535493bfec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_267
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 107
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c175a384b344cd43817381edf768680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_268
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 107
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e04df6bc627fd41be6b8f2f12a3863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_269
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 107
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b58a6d8b8a8944bbef92e20dc0e1c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_270
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 107
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40eee7644d2b88046937c5283b120fad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_271
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 107
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a0db12c724f6840b390d562bb579f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_272
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 107
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadcf94c6e1b54d4fa9fed89d2012d96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_273
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 107
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c489671585a1f0b488318980c4ce3598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_274
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 107
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b747b0495a338b4e948f3f081f64c78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_275
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 107
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f16bbef4f0e0042b47fcfdd5f89703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_276
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 107
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644755f909bdae342bbebfd7cb147ea7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_277
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 107
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381a48744ea0ea34e86b42a51c8f648a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_278
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 107
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2f83c5bd962bd4495ae2153ba0a8ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_279
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 107
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc293855306e5d45ab81a001e75ec8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_280
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 107
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9406aef2a7603ab4fb19b2fad0051653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_281
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 107
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d240348d7ecd4474b8349f0eef635a97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_282
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 107
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2b3bb90c42bee488172f62dd66f7a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_283
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 107
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a4c3adcc51df144bb1304719c4eaa9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_284
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 107
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aca7e695b16e474eb24284689fbbdfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_285
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 107
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79aa47b74b31d474da8b806aa5f4709b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_286
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e34d29506ff064a811b1c76da02f5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_287
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 51
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80107bfa11ca09640a53b7f7be256576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_288
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 51
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6e71453610cb143aede68f9dafb2c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_289
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 51
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f269b42c30709ce41bef856918bf116c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_290
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 51
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb00af952a00b74e862ffcc384d52c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_291
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 51
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee0e1e8828ccf442ad574416b075186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_292
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 51
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7e8239a261fe944b6f5bba3cee3218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_293
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 51
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644e275b2c84be44dbb2958e67aa0b7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_294
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 51
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f37b8311c22ece49a963529dfd1cd08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_295
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 51
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4221266f9c3d524db46eaaf5289f557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_296
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 51
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a8d5dc922de8d45bd8a5e03e4472fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_297
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 51
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3ad833e444fb24ca916c02a4d74d6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_298
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 51
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf7dc797e740fa428be91b40c4985a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_299
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 51
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8f2ef1beb1ade46a508885729a595c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_300
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 51
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8bfb904fe782d4ca5798e6640d587e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_301
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 51
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171d638b8486f964db04430f1c3abc26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_302
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 51
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed5a3228f7e86841a700279ffd376d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_303
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 51
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f074d000f3b0fca40927d7727d56d377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_304
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 51
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1724acbe3dc38ec4faa5ad78f2ab0ab3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_305
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 51
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f76cc3f43128ae44b49c1afa1ad1012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_306
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 51
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ed1fbc8a9643f4d89a2334f95c543f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big-game-top-down-tileset-20511_imgs_20511_307
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 51
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e892fcaab8a3c943ad54434b899ce1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a3300fdedf09f4948a4853d07d6b14c7
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
