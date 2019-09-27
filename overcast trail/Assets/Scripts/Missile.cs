@@ -8,15 +8,18 @@ public class Missile : MonoBehaviour
     float delay = 1.0f;
     //[SerializeField] Transform sprite;
     [SerializeField] public Transform target;
+    [SerializeField] public GameObject bulletPrefab;
     private Rigidbody2D targetRB;
     [SerializeField] Rigidbody2D m_RigidBody2d;
-     private float trRange = 1f;
+    [SerializeField] private float trRange = 5f;
      private float activeRange = 80000f;
-    [SerializeField] private float m_speed = 5f;
+    [SerializeField] private float m_speed = 2f;
+    [SerializeField] private float bulletSpeed = 5f;
     [SerializeField] private Animator _animator;
     [SerializeField] private int role = 0;
     [SerializeField] private float timeToLive = 25f;
     [SerializeField] private float timeToShoot = 20f;
+    [SerializeField] private float effectDuration = 3f;
     private bool _shot = false;
     private float _lifeTime= 0f;
     private int type = 0;
@@ -93,9 +96,18 @@ public class Missile : MonoBehaviour
 
     void shoot(int type)
     {
+        if (bulletPrefab)
+        {
+            GameObject _bullet = Instantiate(bulletPrefab, (Vector3) transform.position,
+                Quaternion.Euler(0, 0, Mathf.Atan2(target.transform.position.y - transform.position.y,target.transform.position.x - transform.position.x)));
+            _bullet.GetComponent<Bullet>().setUp(type,effectDuration);
+            _bullet.GetComponent<Rigidbody2D>().velocity = (target.position - transform.position).normalized*bulletSpeed;
+
+        }
         Debug.Log("PeW pEw!!!");
     }
     // Update is called once per frame
+    
     void FixedUpdate()
     {
         _lifeTime += Time.fixedDeltaTime;

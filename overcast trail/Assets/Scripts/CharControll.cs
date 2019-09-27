@@ -5,7 +5,7 @@ using UnityEngine;
 public class CharControll : MonoBehaviour
 {
 
-
+    [Header("Fields")]
     [SerializeField] private Rigidbody2D m_Rigidbody2D;
     [SerializeField] private Animator animator;
     //[SerializeField] private SoundControl SC;
@@ -15,7 +15,7 @@ public class CharControll : MonoBehaviour
     private Vector3 InitLoc;
 
     private Vector2 targetVelocity;
-
+    [Header("Settings")]
     public float runSpeed = .2f;
     private Vector2 m_Velocity = Vector2.zero;
     private float m_MovementSmoothing = 0.5f;
@@ -24,25 +24,36 @@ public class CharControll : MonoBehaviour
     public float preDeathDuration = 0.0f;
     public float jumpDelay = 0.2f;
     public float jumpCut= 0.2f;
-
+    [Header("Enemy generator")]
     public bool makeEnemies = false;
     public float secPerEnemy = 1;
     public float secToFirstEnemy = 0;
     private float secToEnemy = 0;
+
+    [Header("Debuffs")] 
     
+    [SerializeField]private SpriteRenderer blindSprite;
+    //private int blindStack=0;
+    //private float backBlindDuration=0;
+    [SerializeField]private float blindDuration=0;
+    [SerializeField] private float blindMul=5;
+    //private int slowStack=0;
+    //private float backSlowDuration=0;
+    [SerializeField]private float slowDuration=0;
+    [SerializeField] private float slowMul=4;
     
     float jumpCycle = 0f;
     
     float horizontalMove = 0f;
     float verticalMove = 0f;
-    float sprintMul = 5.0f;
+    float sprintMul = 2.0f;
     float pushForce = 50.0f;
     float mouseX = 0f;
     float mouseY = 0f;
     bool doomed = false;
     bool safe = false;
     bool sprint = false;
-    bool jumpCheat = false;
+    [SerializeField]bool JUMP_CHEAT = false;
     //bool isJumping = false;
 
     // Start is called before the first frame update
@@ -55,6 +66,30 @@ public class CharControll : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //Debuff processing
+        if (slowDuration > 0)
+        {
+            slowDuration -= Time.deltaTime;
+            
+        }
+
+        if (blindDuration > 0)
+        {
+            blindDuration -= Time.deltaTime;
+            if (blindSprite)
+            {
+                blindSprite.color=new Color(blindSprite.color.r,blindSprite.color.g,blindSprite.color.b,-(1)/(blindMul+1)+1);
+            }
+            else
+            {
+                Debug.Log("NEEDIN'A BLIND SPRITE");
+            }
+        }
+        else
+        {
+            blindSprite.color=new Color(blindSprite.color.r,blindSprite.color.g,blindSprite.color.b,0);
+        }
+
         
         if (makeEnemies)
         {
@@ -83,14 +118,15 @@ public class CharControll : MonoBehaviour
 
         if(verticalMove==0 && horizontalMove==0) animator.SetInteger("Dir", 4);
 
-        targetVelocity = new Vector2(horizontalMove * runSpeed * (sprint?sprintMul:1), verticalMove * runSpeed * (sprint ? sprintMul : 1));
+        targetVelocity = new Vector2(horizontalMove * runSpeed * (sprint ? sprintMul : 1) /(slowDuration>0?slowMul:1),verticalMove * runSpeed * (sprint ? sprintMul : 1) /(slowDuration>0?slowMul:1));
+        //targetVelocity = Vector2.zero;
 
 
 
 
         //Debug.Log(horizontalMove + " " + verticalMove);
 
-        if (Input.GetButtonDown("Jump")&&(jumpCheat||jumpCycle<=0f))
+        if (Input.GetButtonDown("Jump")&&(jumpCycle<=0f))
         {
             animator.SetBool("Jump", true);
             jumpCycle = jumpDuration;
@@ -119,7 +155,7 @@ public class CharControll : MonoBehaviour
             animator.SetBool("Jump", false);
             
         }
-        if (doomed && !safe && !BaseCol.isTrigger)
+        if (doomed && !safe && !BaseCol.isTrigger && !JUMP_CHEAT)
         {
                 
             if (preDeathTimer > 0) preDeathTimer -= Time.fixedDeltaTime;
@@ -133,12 +169,28 @@ public class CharControll : MonoBehaviour
     void Die()
     {
         transform.position = InitLoc;
+        m_Rigidbody2D.velocity=Vector2.zero;
     }
+    
+    public void slowDown(float duration)
+    {
+        Debug.Log("SLOWED");
+        //slowStack++;
+        slowDuration = duration;
+    }
+    
+    public void blind(float duration)
+    {
+        Debug.Log("BLIND");
+        //blindStack++;
+        blindDuration = duration;
+    }
+    
 
     void CreateEnemy(int type)
     {
         //makeEnemies = false;
-        type = 0;
+        //type = 0;
         float vRange = 3f;
         float hRange = 3f;
         Missile enemy = Instantiate(EnemyPrefab, new Vector3( transform.position.x+Random.Range(0f,1f)>.5f?hRange:-hRange,Random.Range(-vRange,vRange),0 ),Quaternion.Euler(0,0,0) );

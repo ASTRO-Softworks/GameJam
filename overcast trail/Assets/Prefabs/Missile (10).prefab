@@ -183,12 +183,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 0}
+  bulletPrefab: {fileID: 6223290937845285039, guid: c174e6563de13864cb910cb7cb27e610,
+    type: 3}
   m_RigidBody2d: {fileID: 8434094790508230082}
-  m_speed: 5
+  trRange: 1.5
+  m_speed: 1.5
+  bulletSpeed: 5
   _animator: {fileID: 5796077812247870038}
   role: 0
-  timeToLive: 25
-  timeToShoot: 20
+  timeToLive: 12
+  timeToShoot: 10
+  effectDuration: 3
   smoothRange: 0.1
   rangePushMul: 2
   _range: 0
