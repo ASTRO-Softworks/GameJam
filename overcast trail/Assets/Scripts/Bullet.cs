@@ -14,26 +14,31 @@ public class Bullet : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        Transform tr= other.transform.parent;
-        
-        CharControll CC;// = other.transform.parent.gameObject.GetComponent<CharControll>();
-        if(transform)CC=tr.gameObject.GetComponent<CharControll>();
-        else
+        Transform tr = other.transform.parent;
+        if (tr)
         {
-            CC=other.transform.gameObject.GetComponent<CharControll>();
-        }
-        if (CC)
-        {
-            Debug.Log("ENTER "+other.name);
-            if (_type==0)
-            {
-                CC.slowDown(_duration);
-            }
+
+            CharControll CC; // = other.transform.parent.gameObject.GetComponent<CharControll>();
+            if (transform) CC = tr.gameObject.GetComponent<CharControll>();
             else
             {
-                CC.blind(_duration);
+                CC = other.transform.gameObject.GetComponent<CharControll>();
             }
-            Destroy(gameObject);
+
+            if (CC)
+            {
+//                Debug.Log("ENTER " + other.name);
+                if (_type == 0)
+                {
+                    CC.slowDown(_duration);
+                }
+                else
+                {
+                    CC.blind(_duration);
+                }
+
+                Destroy(gameObject);
+            }
         }
     }
 

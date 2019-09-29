@@ -12,7 +12,7 @@ public class Missile : MonoBehaviour
     private Rigidbody2D targetRB;
     [SerializeField] Rigidbody2D m_RigidBody2d;
     [SerializeField] private float trRange = 5f;
-     private float activeRange = 80000f;
+    [SerializeField] private float activeRange = 80000f;
     [SerializeField] private float m_speed = 2f;
     [SerializeField] private float bulletSpeed = 5f;
     [SerializeField] private Animator _animator;
@@ -20,6 +20,7 @@ public class Missile : MonoBehaviour
     [SerializeField] private float timeToLive = 25f;
     [SerializeField] private float timeToShoot = 20f;
     [SerializeField] private float effectDuration = 3f;
+    public bool reach = false;
     private bool _shot = false;
     private float _lifeTime= 0f;
     private int type = 0;
@@ -36,6 +37,9 @@ public class Missile : MonoBehaviour
     [SerializeField] private float rangePushMul = 2;
     [SerializeField] float _range;
     [SerializeField] float range;
+
+    //private float refVel;
+    [SerializeField] private float smoothVel=0.2f;
     
     private float refTanVel;
     [SerializeField] private float smoothTanVel=0.5f;//Ref to pull    
@@ -63,6 +67,8 @@ public class Missile : MonoBehaviour
                 break;
             }
         }
+
+        
     }
 
     void OnCollisionEnter2D(Collision2D col)
@@ -71,8 +77,28 @@ public class Missile : MonoBehaviour
     }
 
     void OnTrigerEnter(Collider2D col)
+     {
+         Transform tr = col.transform.parent;
+         if (tr)
+         {
+             CharControll ch = tr.gameObject.GetComponent<CharControll>();
+             if (ch)
+             {
+                 reach = true;
+             }
+         }
+     }
+    void OnTrigerExit(Collider2D col)
     {
-
+        Transform tr = col.transform.parent;
+        if (tr)
+        {
+            CharControll ch = tr.gameObject.GetComponent<CharControll>();
+            if (ch)
+            {
+                reach = false;
+            }
+        }
     }
 
     public void setType(int typ, int role=0)
@@ -94,6 +120,14 @@ public class Missile : MonoBehaviour
         targetRB = target.GetComponent<Rigidbody2D>();
     }
 
+   
+
+    public void goDie()
+    {
+        timeToShoot = 4 * timeToLive;
+        _lifeTime = (timeToLive + timeToShoot) / 2;
+    }
+    
     void shoot(int type)
     {
         if (bulletPrefab)
@@ -104,7 +138,7 @@ public class Missile : MonoBehaviour
             _bullet.GetComponent<Rigidbody2D>().velocity = (target.position - transform.position).normalized*bulletSpeed;
 
         }
-        Debug.Log("PeW pEw!!!");
+        //Debug.Log("PeW pEw!!!");
     }
     // Update is called once per frame
     
@@ -123,7 +157,7 @@ public class Missile : MonoBehaviour
             m_RigidBody2d.velocity = (transform.position - target.position).normalized * m_speed;
             if (Mathf.Abs(transform.position.x)>4)
             {
-                Debug.Log("no no noNO nO NO NONONO!!");
+//                Debug.Log("no no noNO nO NO NONONO!!");
                 Destroy(gameObject);
             }
         }
@@ -145,9 +179,17 @@ public class Missile : MonoBehaviour
                     //Debug.Log((Vector2) (transform.position - target.position) * Mathf.Abs(trRange - _range) *
                              // rangePushMul);
                     //Debug.Log((Vector2) (target.position - transform.position) * m_speed);
-
-
-                    m_RigidBody2d.velocity = (_range < trRange //Keep the range
+                    /*
+                    if (_range < trRange) reach = true;
+                    Debug.Log(_range);
+                    Debug.Log(trRange);
+                    Debug.Log(_range < trRange);
+                    if (!chase) _range /= 3.3f;
+                    Debug.Log(_range);
+                    Debug.Log(trRange);
+                    Debug.Log(_range < trRange);
+                    */
+                    m_RigidBody2d.velocity = Vector2.SmoothDamp(m_RigidBody2d.velocity,( reach//_range < trRange //Keep the range
                                                  ? (Vector2) (transform.position - target.position).normalized *
                                                    Mathf.Abs(trRange - _range) *
                                                    rangePushMul // closer vector from player to enemy, closer-stronger
@@ -155,7 +197,7 @@ public class Missile : MonoBehaviour
                                                    m_speed)
                                              + Vector2.Perpendicular((Vector2) (target.position - transform.position))
                                                  .normalized *
-                                             tanVel; //Vector2.Perpendicular((Vector2) (transform.position-target.position)).normalized * Random.Range(-m_speed/2,m_speed/2); // further vector from enemy to player , using speed
+                                             tanVel,ref refVel,smoothVel); //Vector2.Perpendicular((Vector2) (transform.position-target.position)).normalized * Random.Range(-m_speed/2,m_speed/2); // further vector from enemy to player , using speed
 
                     //m_RigidBody2d.AddForce(trg);
                 }

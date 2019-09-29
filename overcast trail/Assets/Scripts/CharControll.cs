@@ -37,6 +37,12 @@ public class CharControll : MonoBehaviour
     //private float backBlindDuration=0;
     [SerializeField]private float blindDuration=0;
     [SerializeField] private float blindMul=5;
+    [SerializeField]private float targetBlindness = 1.0f;
+    [SerializeField]private float smoothBlindness = 0.2f;
+    private float blindness = 0.0f;
+    private float refBlindness = 0.0f;
+    
+    
     //private int slowStack=0;
     //private float backSlowDuration=0;
     [SerializeField]private float slowDuration=0;
@@ -61,6 +67,7 @@ public class CharControll : MonoBehaviour
     {
         InitLoc = transform.position;
         secToEnemy = secToFirstEnemy;
+        //Die();
     }
 
     // Update is called once per frame
@@ -78,7 +85,7 @@ public class CharControll : MonoBehaviour
             blindDuration -= Time.deltaTime;
             if (blindSprite)
             {
-                blindSprite.color=new Color(blindSprite.color.r,blindSprite.color.g,blindSprite.color.b,-(1)/(blindMul+1)+1);
+                blindness = Mathf.SmoothDamp(blindness, targetBlindness, ref refBlindness, smoothBlindness);
             }
             else
             {
@@ -87,8 +94,10 @@ public class CharControll : MonoBehaviour
         }
         else
         {
-            blindSprite.color=new Color(blindSprite.color.r,blindSprite.color.g,blindSprite.color.b,0);
+            //blindSprite.color=new Color(blindSprite.color.r,blindSprite.color.g,blindSprite.color.b,0);
+            blindness = Mathf.SmoothDamp(blindness, 0, ref refBlindness, smoothBlindness);   
         }
+        blindSprite.color=new Color(blindSprite.color.r,blindSprite.color.g,blindSprite.color.b,blindness);
 
         
         if (makeEnemies)
@@ -106,7 +115,6 @@ public class CharControll : MonoBehaviour
         verticalMove = Input.GetAxisRaw("Vertical");
 
         //if (sprint) Debug.Log("Sprint");
-
         mouseX = Input.GetAxisRaw("Mouse X");
 
         mouseY = Input.GetAxisRaw("Mouse Y");
@@ -126,19 +134,34 @@ public class CharControll : MonoBehaviour
 
         //Debug.Log(horizontalMove + " " + verticalMove);
 
-        if (Input.GetButtonDown("Jump")&&(jumpCycle<=0f))
+        if (Input.GetButtonDown("Jump") && (jumpCycle <= 0f))
         {
             animator.SetBool("Jump", true);
             jumpCycle = jumpDuration;
             //BaseCol.isTrigger = true;
             //SC.TogglePlay();
         }
-        else if (Input.GetButtonDown("Fire1"))
+
+        if (Input.GetButtonDown("Fire1"))
         {
             sprint = true;
         } else if (Input.GetButtonUp("Fire1"))
         {
             sprint = false;
+        }
+        
+        if (Input.GetKeyDown(KeyCode.Home))
+        {
+            JUMP_CHEAT = !JUMP_CHEAT;
+        }
+
+        if (Input.GetKeyDown(KeyCode.PageUp))
+        {
+            slowDuration = 0;
+        }
+        if (Input.GetKeyDown(KeyCode.PageDown))
+        {
+            blindDuration = 0;
         }
     }
 
@@ -166,22 +189,28 @@ public class CharControll : MonoBehaviour
         m_Rigidbody2D.velocity = Vector2.SmoothDamp(m_Rigidbody2D.velocity, targetVelocity, ref m_Velocity, m_MovementSmoothing);
     }
 
-    void Die()
+    void Die(bool dump = true)
     {
+        if (dump)
+        {
+            blindDuration = 0;
+            slowDuration = 0;
+            m_Rigidbody2D.velocity = Vector2.zero;
+        }
+
         transform.position = InitLoc;
-        m_Rigidbody2D.velocity=Vector2.zero;
     }
     
     public void slowDown(float duration)
     {
-        Debug.Log("SLOWED");
+        //Debug.Log("SLOWED");
         //slowStack++;
         slowDuration = duration;
     }
     
     public void blind(float duration)
     {
-        Debug.Log("BLIND");
+//        Debug.Log("BLIND");
         //blindStack++;
         blindDuration = duration;
     }
@@ -217,8 +246,10 @@ public class CharControll : MonoBehaviour
             //Debug.Log("CHECKPOINT");
         } else if (collider.CompareTag("Enemy"))
         {
-            m_Rigidbody2D.AddForce((transform.position - collider.transform.position) * pushForce);
-            Destroy(collider.gameObject);
+            Missile enemy = collider.gameObject.GetComponent<Missile>();
+            if(enemy)enemy.reach=true;
+            //m_Rigidbody2D.AddForce((transform.position - collider.transform.position) * pushForce);
+            //Destroy(collider.gameObject);
         } else if (collider.CompareTag("SafeZone"))
         {
             safe = true;
@@ -232,11 +263,19 @@ public class CharControll : MonoBehaviour
         } else if (collider.CompareTag("SafeZone"))
         {
             safe = false;
+        }else if (collider.CompareTag("Enemy"))
+        {
+            Missile enemy = collider.gameObject.GetComponent<Missile>();
+            if(enemy)enemy.reach=false;
+            //m_Rigidbody2D.AddForce((transform.position - collider.transform.position) * pushForce);
+            //Destroy(collider.gameObject);
         }
     }
 
     public void setSpawn(Vector3 point)
     {
+        //InitLoc = transform.position;
+        //Die(false);
         InitLoc = point;
     }
 
